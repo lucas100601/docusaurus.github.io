@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Logic Lumina Blog</title>
+        <title>我在故我思 Blog</title>
         <link>https://lucas100601.github.io/en/blog</link>
-        <description>Logic Lumina Blog</description>
+        <description>我在故我思 Blog</description>
         <lastBuildDate>Mon, 19 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
